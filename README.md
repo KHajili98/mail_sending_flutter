@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## First version
 
-This project is a starting point for a Flutter application.
+Sending mail in background with text message, attachments and html formats..
 
-A few resources to get you started if this is your first Flutter project:
+## Second version
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Sending mail with opening gmail application forward data to the gmail. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
