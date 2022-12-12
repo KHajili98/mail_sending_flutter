@@ -14,7 +14,7 @@ sendEmail() async {
   final Email email = Email(
     body: 'Email body',
     subject: 'Email subject',
-    recipients: ['shaban.haciyev@gmail.com'],
+    recipients: ['___'],
     isHTML: false,
   );
 
